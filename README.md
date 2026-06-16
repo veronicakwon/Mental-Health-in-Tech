@@ -8,8 +8,6 @@ The dataset used in this analysis consists of roughly 1,250 survey responses det
 * *Note: The data is primarily based on a 2014 industry survey, which carries limitations regarding geographic distribution and evolving modern workplace culture.*
 
 ## 🚀 How to Run the Project
-## How to Run the Project
-
 Follow these steps to run the Python scripts on your local machine.
 
 ### Prerequisites
@@ -36,19 +34,19 @@ pip install pandas matplotlib  # Add any other libraries your project uses
    * **To run the first file:**
      ```bash
      # Windows
-     python file1.py
+     python 01_eda-Copy1.py
      
      # Mac / Linux
-     python3 file1.py
+     python3 01_eda-Copy1.py
      ```
 
    * **To run the second file:**
      ```bash
      # Windows
-     python file2.py
+     python 02_modeling-Copy1.py
      
      # Mac / Linux
-     python3 file2.py
+     python3 02_modeling-Copy1.py
      ```
 
 
